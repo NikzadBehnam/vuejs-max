@@ -23,8 +23,10 @@
       <button v-on:click="reduce(5)">Remove</button>
       <p>Result: {{ counter }}</p>
 
-      <input v-on:input="setName" type="text" />
-      <p>Your Name: {{ name }}</p>
+      <form v-on:submit.prevent="submitForm">
+        <input type="text /" />
+        <button type="submit">Sign up</button>
+      </form>
     </section>
   </body>
 </html>

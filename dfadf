@@ -1,0 +1,47 @@
+[33mcommit eab03b4c0bb9e8d0707efefcd2d09cf95ab0b6fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 17:44:47 2024 +0200
+
+    27.Using the Native Object
+
+[33mcommit 4fad0307d18bcf25f75f78d33c8cdbc20b181255[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 17:31:31 2024 +0200
+
+    26. Working with Event Arguments
+
+[33mcommit 93fe8c8cf67f96c5d9860600d842fb219346f603[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 16:36:00 2024 +0200
+
+    25. Events & Methods
+
+[33mcommit b138a58bd28c7a186d45492da3101f7570841e68[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 16:22:57 2024 +0200
+
+    24. Understanding Event Binding
+
+[33mcommit cff24b00ba480e7cc2dc878d9781fa3a88c2d474[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 16:01:53 2024 +0200
+
+    Assignment 1: Time to Practice: Data Binding
+
+[33mcommit 641841758f05de7639022efe8b172994033b47c4[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 13:00:13 2024 +0200
+
+    20. Understanding "methods" in Vue Apps
+
+[33mcommit 4a3d0270e00b22e918a340d66977524b840b2426[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 11:37:36 2024 +0200
+
+    8. Re-building the App with Vue
+
+[33mcommit 3eb3293a7c8f6ac44af4cd11bda90730c2b2d64c[m
+Author: NikzadBehnam <nikzad.behnam1992@gmail.com>
+Date:   Mon Jun 17 10:03:11 2024 +0200
+
+    Initial commit
